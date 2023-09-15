@@ -29,9 +29,8 @@ In this tutorial, osTicket will be utilized to show how to create a ticket as a 
 First go to http://localhost/osTicket/ in your browser. We are going to act like a end user and create a ticket regarding a problem that user might have. 
 
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/147f0fcb-de69-4d78-80cf-71f78dc9957a)
-![image](https://githu![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/0b4c794c-41ee-474d-a6b3-a86d7d2ee4da)
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/0b4c794c-41ee-474d-a6b3-a86d7d2ee4da)
 ![image](https://github.com/]mathew-perez/ticket-lifecycle/assets/144407220/2f7b7bfe-0f15-47bf-bb56-708ce73e1b74)
-
 
 
 <h3>Assignment and Communication</h3>
@@ -52,7 +51,7 @@ In this example, Jane is working the ticket by answering to the user. On the bac
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/daeb2c95-178f-4b15-bcd3-22e35be8ecde)
 
 <h3>Resolution</h3>
-In this final example, Jane was able to get the appropriate parties notified of the issue and get it resolved. Ticket was closed. 
+In this final example, Jane was able to get the appropriate parties notified of the issue and got it resolved. Ticket was closed. 
 
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/6aa64a88-d71f-49a2-b93b-adef75ace13d)
 
