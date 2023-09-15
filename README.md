@@ -29,9 +29,8 @@ In this tutorial, osTicket will be utilized to show how to create a ticket as a 
 First go to http://localhost/osTicket/ in your browser. We are going to act like a end user and create a ticket regarding a problem that user might have. 
 
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/147f0fcb-de69-4d78-80cf-71f78dc9957a)
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/2f7b7bfe-0f15-47bf-bb56-708ce73e1b74)
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/3a496a8b-b90f-4027-9aa0-2f487da9b4d2)
-![image](https://github.com/]mathew-perez/ticket-lifecycle/assets/144407220/2f7b7bfe-0f15-47bf-bb56-708ce73e1b74)
-
 
 <h3>Assignment and Communication</h3>
 
