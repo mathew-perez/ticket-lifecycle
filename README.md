@@ -30,7 +30,7 @@ First go to http://localhost/osTicket/ in your browser. We are going to act like
 
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/147f0fcb-de69-4d78-80cf-71f78dc9957a)
 ![image](https://githu![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/0b4c794c-41ee-474d-a6b3-a86d7d2ee4da)
-b.com/mathew-perez/ticket-lifecycle/assets/144407220/2f7b7bfe-0f15-47bf-bb56-708ce73e1b74)
+![image](https://github.com/]mathew-perez/ticket-lifecycle/assets/144407220/2f7b7bfe-0f15-47bf-bb56-708ce73e1b74)
 
 
 
@@ -60,4 +60,4 @@ In this final example, Jane was able to get the appropriate parties notified of 
 Congratulations, the ticket was resolved and you worked your first ticket! Continue to work around osTicket to build intituition and repetition for working tickets. In the IT world, ticketing systems vital in how the work is managed!
 
 
-**REMEMBER TO DELETE YOUR RESOURCES ONCE YOU ARE DONE WITH THE LAB!**
+REMEMBER TO DELETE YOUR RESOURCES IN MICROSOFT AZURE ONCE YOU ARE DONE WITH THE LAB
