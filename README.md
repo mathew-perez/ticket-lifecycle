@@ -25,48 +25,37 @@ In this tutorial, osTicket will be utilized to show how to create a ticket as a 
 <h2>Lifecycle Stages</h2>
 
 <h3>Intake</h3>
-Intake is when the user creates the ticket to the Help Desk. In this example, there are several different issues that have arose of varying priority. 
 
-<p>
-<img src="https://i.imgur.com/VzQ56K1.png" height="80%" width="80%" alt="1."/>
-</p>
+First go to http://localhost/osTicket/ in your browser. We are going to act like a end user and create a ticket regarding a problem that user might have. 
 
-<p>
-<img src="https://i.imgur.com/GQGNUK5.png" height="80%" width="80%" alt="2."/>
-</p>
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/147f0fcb-de69-4d78-80cf-71f78dc9957a)
+![image](https://githu![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/0b4c794c-41ee-474d-a6b3-a86d7d2ee4da)
+b.com/mathew-perez/ticket-lifecycle/assets/144407220/2f7b7bfe-0f15-47bf-bb56-708ce73e1b74)
 
-<p>
-<img src="https://i.imgur.com/vdKyebK.png" height="80%" width="80%" alt="3."/>
-</p>
 
-<p>
-<img src="https://i.imgur.com/MfI9Qh7.png" height="80%" width="80%" alt="4."/>
-</p>
 
 <h3>Assignment and Communication</h3>
-Usually, an administrator or manager/supervisor will manage which employee will handle which ticket. There are normally varying levels of priority when it comes to tickets so the person resposible for ticket assignment will determine that. In this example, Jane is assigning the ticket to herself. The issue is Sev-A and will need an experienced person to work the issue. 
 
-<p>
-<img src="https://i.imgur.com/YM6clFY.png" height="80%" width="80%" alt="5."/>
-</p>
+First go to http://localhost/osTicket/ in your browser and login using the information from the agent created from the post instalation of osTIcket. 
 
-<p>
-<img src="https://i.imgur.com/OZLgRO0.png" height="80%" width="80%" alt="6."/>
-</p>
+Usually, an administrator or manager/supervisor will manage which employee will handle which ticket.  The person assigning the ticket will also assign and set the priority of the ticket that varies from low to high priority or an emergency. In this example, Jane is assigning the ticket to herself and setting the priority level to emergency. The department responsible was changed from support to system administrators because in this scenario the support department is not equiped to handle this issue. The issue is an SLA Sev-A and will need an experienced person to work the issue. 
+
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/3a496a8b-b90f-4027-9aa0-2f487da9b4d2)
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/c59539bf-5993-45c1-8dbf-fe222a02e191)
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/907c71fb-c858-4b69-95b0-3c923432fc88)
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/a9102801-4ec3-4410-bd0d-79a1411e4b64)
+
 
 <h3>Working the Issue</h3>
 In this example, Jane is working the ticket by answering to the user. On the backend, Jane is working with another department to have the issue fixed. 
 
-<p>
-<img src="https://i.imgur.com/eeJ1NH5.png" height="80%" width="80%" alt="7."/>
-</p>
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/daeb2c95-178f-4b15-bcd3-22e35be8ecde)
 
 <h3>Resolution</h3>
 In this final example, Jane was able to get the appropriate parties notified of the issue and get it resolved. Ticket was closed. 
 
-<p>
-<img src="https://i.imgur.com/9gNXYf4.png" height="80%" width="80%" alt="8."/>
-</p>
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/6aa64a88-d71f-49a2-b93b-adef75ace13d)
+
 
 Congratulations, the ticket was resolved and you worked your first ticket! Continue to work around osTicket to build intituition and repetition for working tickets. In the IT world, ticketing systems vital in how the work is managed!
 
