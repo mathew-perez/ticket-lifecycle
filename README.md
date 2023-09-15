@@ -29,7 +29,7 @@ In this tutorial, osTicket will be utilized to show how to create a ticket as a 
 First go to http://localhost/osTicket/ in your browser. We are going to act like a end user and create a ticket regarding a problem that user might have. 
 
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/147f0fcb-de69-4d78-80cf-71f78dc9957a)
-![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/0b4c794c-41ee-474d-a6b3-a86d7d2ee4da)
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/3a496a8b-b90f-4027-9aa0-2f487da9b4d2)
 ![image](https://github.com/]mathew-perez/ticket-lifecycle/assets/144407220/2f7b7bfe-0f15-47bf-bb56-708ce73e1b74)
 
 
@@ -39,7 +39,7 @@ First go to http://localhost/osTicket/ in your browser and login using the infor
 
 Usually, an administrator or manager/supervisor will manage which employee will handle which ticket.  The person assigning the ticket will also assign and set the priority of the ticket that varies from low to high priority or an emergency. In this example, Jane is assigning the ticket to herself and setting the priority level to emergency. The department responsible was changed from support to system administrators because in this scenario the support department is not equiped to handle this issue. The issue is an SLA Sev-A and will need an experienced person to work the issue. 
 
-![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/3a496a8b-b90f-4027-9aa0-2f487da9b4d2)
+![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/0b4c794c-41ee-474d-a6b3-a86d7d2ee4da)
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/c59539bf-5993-45c1-8dbf-fe222a02e191)
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/907c71fb-c858-4b69-95b0-3c923432fc88)
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/a9102801-4ec3-4410-bd0d-79a1411e4b64)
