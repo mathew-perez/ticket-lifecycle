@@ -55,7 +55,7 @@ In this final example, Jane was able to get the appropriate parties notified of 
 ![image](https://github.com/mathew-perez/ticket-lifecycle/assets/144407220/6aa64a88-d71f-49a2-b93b-adef75ace13d)
 
 
-Congratulations, the ticket was resolved and you worked your first ticket! Continue to work around osTicket to build intituition and repetition for working tickets. In the IT world, ticketing systems vital in how the work is managed!
+Hopefully this lab was able to provide an understanding about osTIcket and the ticket lifecycle.
 
 
 REMEMBER TO DELETE YOUR RESOURCES IN MICROSOFT AZURE ONCE YOU ARE DONE WITH THE LAB
