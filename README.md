@@ -56,6 +56,3 @@ In this final example, Jane was able to get the appropriate parties notified of 
 
 
 Hopefully this lab was able to provide an understanding about osTIcket and the ticket lifecycle.
-
-
-REMEMBER TO DELETE YOUR RESOURCES IN MICROSOFT AZURE ONCE YOU ARE DONE WITH THE LAB
